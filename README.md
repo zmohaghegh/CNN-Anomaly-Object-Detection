@@ -12,4 +12,3 @@ This repository features a Deep Learning-based system designed to detect anomali
 - Automated data preprocessing and normalization.
 - CNN-based feature extraction layers.
 - Visualization of anomaly heatmaps (Localization).
-- Evaluation using ROC-AUC curves and Precision-Recall metrics.
